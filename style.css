@@ -5,7 +5,6 @@
 }
 
 .page__body {
-  /* height: 100vh; */
   padding: 20px;
   background-color: #2b2b2b;
 }
@@ -16,7 +15,6 @@
   margin: 0 auto;
   border: 2px solid #1e1e1e;
   border-radius: 10px;
-  /* background-color: thistle; */
   background-color: #b19888;
   padding: 20px;
   display: grid;
@@ -36,7 +34,6 @@
   display: flex;
   align-items: center;
   flex-wrap: nowrap;
-  /* min-height: 100px; */
   min-height: 55px;
   overflow-y: hidden;
   overflow-x: auto;
